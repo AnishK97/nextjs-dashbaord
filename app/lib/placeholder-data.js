@@ -7,6 +7,12 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: '410544b2-4001-4271-9855-fec4b6a6485a',
+    name: 'Anish',
+    email: 'anish@paytriot.co.uk',
+    password: '123456',
+  },
 ];
 
 const customers = [
@@ -177,7 +183,6 @@ const revenue = [
   { month: 'Sep', revenue: 2500 },
   { month: 'Oct', revenue: 2800 },
   { month: 'Nov', revenue: 3000 },
-  { month: 'Dec', revenue: 4800 },
 ];
 
 module.exports = {
